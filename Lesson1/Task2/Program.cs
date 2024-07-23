@@ -23,3 +23,12 @@ Console.WriteLine(quotient);
 d1 =6;
 double quotient2 = i1 / d1;
 Console.WriteLine(quotient2);
+
+
+int q1 = 5;
+int q2 = 6;
+int q3 = 7;
+int q4 = 8;
+
+double dz = q1 * q2 / (q3+q4);
+Console.WriteLine(dz);
